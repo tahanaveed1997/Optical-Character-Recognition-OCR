@@ -18,7 +18,7 @@ g_gain = 250
 g_gamma = 0
 g_contrast = 30
 g_brigthness = 0
-g_exposurelines = 2500
+g_exposurelines = 3000
 libKsj.KSJ_SetParam(0, 1, g_gain)
 libKsj.KSJ_SetParam(0, 2, g_gain)
 libKsj.KSJ_SetParam(0, 3, g_gain)
